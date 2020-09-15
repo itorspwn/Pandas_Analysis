@@ -1,6 +1,6 @@
 # Pandas_Challenge
 
-## Analyzed data set for for fantasy game called "Heroes of Pymoli" and generated a report including:
+## Analyzed data set for fantasy game called "Heroes of Pymoli" and generated a report including:
 
 ### Player Count
 
