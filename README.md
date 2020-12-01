@@ -1,4 +1,4 @@
-# Pandas_Challenge
+# Pandas_Analysis
 
 ## Analyzed data set for fantasy game called "Heroes of Pymoli" and generated a report including:
 
